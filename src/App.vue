@@ -101,6 +101,7 @@ export default {
 
 <style lang="scss">
 .container {
+  margin-top: 10%;
   display: flex;
   flex-direction: column;
   align-items: center;
